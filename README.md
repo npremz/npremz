@@ -1,5 +1,6 @@
 I'm @npremz, known as Nicolas Prémont
-I'm interested in web dev and powerlifting
+I'm interested in web dev and software dev.
+More specifically vue.js and C
 
 Currently working with my crew Drip Gobelins.
 
