@@ -2,7 +2,7 @@ I'm @npremz, known as Nicolas Prémont
 I'm interested in web dev and software dev.
 More specifically vue.js and C
 
-Currently working with my crew Drip Gobelins.
+Currently following the 42 cursus at Campus 19 and working with my crew Drip Gobelins to make high quality and fun content :D.
 
 <!---
 npremz/npremz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
