@@ -1,4 +1,5 @@
-![IntroImage](https://i.pinimg.com/564x/c8/46/02/c8460232be74e37e74d97106c3f4ef01.jpg | width=1000)
+<img src="https://i.pinimg.com/originals/64/b0/c0/64b0c04cf13fa87c9d5992bac6ebb426.jpg" />
+
 I'm @npremz, known as Nicolas Prémont
 I'm interested in web dev and software dev.
 More specifically vue.js and C
