@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/64/b0/c0/64b0c04cf13fa87c9d5992bac6ebb426.jpg" />
+<img src="https://giffiles.alphacoders.com/146/14616.gif" />
 
 I'm @npremz, known as Nicolas Prémont
 I'm interested in web dev and software dev.
