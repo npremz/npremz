@@ -14,17 +14,14 @@ Currently working hard to ensure that I always have a more precise and secure ap
 
 ### Currently interested in:
 
-<a href="https://symfony.com/" title="Symfony"><img src="https://github.com/get-icon/geticon/raw/master/icons/symfony.svg" alt="Symfony" width="24px" height="24px"></a>
-<a href="https://www.mysql.com/fr/" title="Symfony"><img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="MySQL" width="24px" height="24px"></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="24px" height="24px"></a>
+<a href="https://fr.react.dev/" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="tailwind" width="24px" height="24px"></a>
 <a href="https://tailwindcss.com/" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/tailwindcss-icon.svg" alt="tailwind" width="24px" height="24px"></a>
 <a href="https://threejs.org/" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/threejs.svg" alt="threejs" width="24px" height="24px"></a>
 <a href="https://www.python.org/" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="24px" height="24px"></a>
 <a href="https://fr.wikipedia.org/wiki/C_(langage)" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="C" width="24px" height="24px"></a>
 <a href="https://fr.wikipedia.org/wiki/C%2B%2B" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="24px" height="24px"></a>
 <a href="https://fr.wikipedia.org/wiki/Bourne-Again_shell" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" alt="Bash" width="24px" height="24px"></a>
-<a href="https://www.debian.org/index.fr.html" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/debian.svg" alt="debian" width="24px" height="24px"></a>
-<a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="24px" height="24px"></a>
+<a href="https://www.mysql.com/fr/" title="Symfony"><img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="MySQL" width="24px" height="24px"></a>
 
 ### Stacks:
 
@@ -40,6 +37,9 @@ Currently working hard to ensure that I always have a more precise and secure ap
 <a href="https://www.figma.com/" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/figma.svg" alt="Figma" width="24px" height="24px"></a>
 <a href="https://nginx.org/en/docs/" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/nginx-icon.svg" alt="Nginx" width="24px" height="24px"></a>
 <a href="https://httpd.apache.org/" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/apache.svg" alt="Apache" width="24px" height="24px"></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="24px" height="24px"></a>
+<a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="24px" height="24px"></a>
+<a href="https://www.debian.org/index.fr.html" title="docker"><img src="https://github.com/get-icon/geticon/blob/master/icons/debian.svg" alt="debian" width="24px" height="24px"></a>
 
 ---
 
